@@ -1,6 +1,6 @@
 ![MijnGiphy](https://media2.giphy.com/media/R4Pyf8ypD3z5npO9H9/giphy.gif)
 <details>
-  <summary>Klik hier om gegevens te zien over commits enzo</summary>
+  <summary>Klik hier om gegevens te zien over commits</summary>
 
 ![Tafish Qureshi's github stats](https://github-readme-stats.vercel.app/api?username=Tafish-Qureshi&theme=tokyonight&show_icons=true)
 </details>
