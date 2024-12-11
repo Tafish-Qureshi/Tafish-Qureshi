@@ -1,4 +1,13 @@
-![MijnGiphy](https://media2.giphy.com/media/R4Pyf8ypD3z5npO9H9/giphy.gif)
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- GIF -->
+  <img src="https://media2.giphy.com/media/R4Pyf8ypD3z5npO9H9/giphy.gif" alt="Mijn Giphy" style="height: 150px;">
+
+  <!-- Spotify Widget -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=false&bar_color=ff4000" 
+         alt="Spotify Profile" style="height: 150px;">
+  </a>
+</div>
 
 # Hi, I'm Tafish Qureshi! 🚀 *Coding is Passion*  
 Welcome to my GitHub profile! I specialize in **front-end development** and am continuously striving to learn more about **web development**.
@@ -30,7 +39,7 @@ Welcome to my GitHub profile! I specialize in **front-end development** and am c
 - **[Yu-Gi-Oh Quiz](https://github.com/Tafish-Qureshi/YugiohQuiz.git)**: Test your Yu-Gi-Oh knowledge!  
 - **[Pokemon Pokedex](https://github.com/Tafish-Qureshi/Pokemon-Pokedex.git)**: A sleek Pokedex app for all Pokémon enthusiasts.  
 - **[Discord Bot](https://github.com/Tafish-Qureshi/DiscordbotV14.git)**: A feature-rich bot written in JavaScript.  
-- **C# Text-Based Adventure**: Immersive gameplay in a console-based adventure.
+- **[C#](https://github.com/Tafish-Qureshi/RPG-Tekst-based)**: Immersive gameplay in a console-based adventure.
 
 ✨ Currently working on a **project** for iZiViD.
 
@@ -39,6 +48,3 @@ Welcome to my GitHub profile! I specialize in **front-end development** and am c
 ## 🌐 **Connect With Me**
 - [LinkedIn](https://www.linkedin.com/in/tafish-qureshi)  
 - [GitHub](https://github.com/Tafish-Qureshi)  
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
