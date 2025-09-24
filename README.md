@@ -1,15 +1,17 @@
 ## 🎧 Now Playing on Spotify
-
-<div align="center" style="padding:20px; border-radius:20px;">
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; padding: 20px;">
+  
+  <!-- Spotify Widget -->
   <a href="https://open.spotify.com/user/darksiders1251" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=false&bar_color=1db954" 
-         alt="Spotify Profile" style="height:350px; width:300px">
-  </a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true" 
-           alt="Top Languages" style="border-radius:15px; height:320px;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true&bar_color=ff4000" 
+         alt="Spotify Profile" style="height: 300px; width:300px">
+  </a> 
+<!-- Top Languages Widget -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true" 
+       alt="Top Languages" style="border-radius:15px; height:150px;">
+         
 </div>
+
 
 # Hi, I'm Tafish Qureshi! 🚀 *Coding is Passion*  
 Welcome to my GitHub profile! I specialize in **front-end development** and am continuously striving to learn more about **web development**.
