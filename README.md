@@ -1,23 +1,18 @@
 ## 🎧 Now Playing on Spotify
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; padding: 20px;">
-  
-  <!-- Spotify Widget -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://open.spotify.com/user/darksiders1251" target="_blank" style="text-decoration: none;">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true&bar_color=ff4000"
-           alt="Spotify Profile"
-           style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); height: 340px; width: 260px; margin-bottom: 10px;">
-    </a>
+<!-- Spotify + Top Languages side by side -->
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
 
-  </div>
-<!-- Top Languages Widget -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3 style="margin-bottom: 10px;">🌐 Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=false"
-         alt="Top Languages" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); height: 220px; width: 320px;">
-  </div>
-         
+  <!-- Spotify Widget -->
+  <a href="https://open.spotify.com/user/darksiders1251" target="_blank" style="text-decoration: none;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true&bar_color=ff4000"
+         alt="Spotify Profile"
+         style="border-radius: 16px; box-shadow: 0 4px 16px rgba(0,0,0,0.18); height: 340px; width: 260px;">
+  </a>         <!-- Top Languages Widget -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=false"
+       alt="Top Languages" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); height: 320px; width: 320px;">
+
 </div>
+
 
 
 # Hi, I'm Tafish Qureshi! 🚀 *Coding is Passion*  
