@@ -1,23 +1,15 @@
 ## 🎧 Now Playing on Spotify
 
-<div align="center" style="border-radius:20px; box-shadow:0 0 15px rgba(0,0,0,0.5);>
+<div align="center" style="padding:20px; border-radius:20px;">
 
-  <!-- Spotify Widget -->
   <a href="https://open.spotify.com/user/darksiders1251" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=true&background_color=00ff00&interchange=true&bar_color_cover=false&bar_color=000000" 
-         alt="Spotify Profile" style="border-radius:15px; height:250px;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=false&bar_color=1db954" 
+         alt="Spotify Profile" style="height:350px; width:300px">
   </a>
 
-  <!-- Top Languages Widget -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true" 
-       alt="Top Languages" style="border-radius:15px; height:250px;">
-
-  <!-- GitHub Stats Widget -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tafish-qureshi&show_icons=true&theme=dark&hide_border=true" 
-       alt="GitHub Stats" style="border-radius:15px; height:250px;">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true" 
+           alt="Top Languages" style="border-radius:15px; height:320px;">
 </div>
-
 
 # Hi, I'm Tafish Qureshi! 🚀 *Coding is Passion*  
 Welcome to my GitHub profile! I specialize in **front-end development** and am continuously striving to learn more about **web development**.
