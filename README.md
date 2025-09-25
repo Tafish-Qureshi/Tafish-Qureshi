@@ -1,10 +1,4 @@
-<!-- Spotify + Top Languages side by side -->
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
-
-  <!-- Spotify Widget -->
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=novatorem&show_offline=false&background_color=0033ff&interchange=false&bar_color=731c1c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=novatorem&show_offline=false&background_color=0033ff&interchange=false&bar_color=731c1c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true)
 
 
 
