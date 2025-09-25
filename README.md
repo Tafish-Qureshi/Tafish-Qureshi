@@ -1,9 +1,9 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=novatorem&show_offline=false&background_color=0033ff&interchange=false&bar_color=731c1c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=false&theme=natemoo-re&show_offline=true&background_color=8A2BE2&interchange=false&bar_color_cover=false&bar_color=40E0D0" alt="Spotify Profile"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true">
 
 
 
 
-# Hi, I'm Tafish Qureshi! 🚀 
+# Hi, I'm Tafish Qureshi! 🚀
 
 
 ---
