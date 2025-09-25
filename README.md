@@ -1,15 +1,10 @@
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://open.spotify.com/user/darksiders1251">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=default&show_offline=false&background_color=8A2BE2&interchange=true&bar_color_cover=false&bar_color=40E0D0" width="160"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<!-- Spotify + Top Languages side by side -->
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
+
+  <!-- Spotify Widget -->
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=true&theme=novatorem&show_offline=false&background_color=0033ff&interchange=false&bar_color=731c1c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 
 
