@@ -1,6 +1,9 @@
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=false&theme=karaoke&show_offline=true&background_color=8A2BE2&interchange=false&bar_color_cover=false&bar_color=40E0D0" alt="Spotify Profile"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true">
-
-
+<p align="center">
+  <a href="https://open.spotify.com/user/darksiders1251" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darksiders1251&cover_image=false&theme=default&show_offline=true&background_color=f00000&interchange=true&bar_color_cover=false&bar_color=40E0D0"  style="border:0; display:inline-block;" alt="SpotifyProfile"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafish-qureshi&layout=compact&theme=dark&hide_border=true"  alt="GitHub Top Languages"/>
+</p>
 
 
 # Hi, I'm Tafish Qureshi! 🚀
